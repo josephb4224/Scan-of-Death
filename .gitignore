@@ -1,0 +1,19 @@
+# Ignore Environments
+*.env
+env/
+env.bak/
+ENV/
+
+*.venv/
+*venv/
+
+Source\*.venv\
+
+# Credentials
+secrets/
+credentials/
+.credentials/
+private/
+keystore/
+wallet.json
+gha-creds-*.json

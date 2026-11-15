@@ -1,0 +1,198 @@
+{
+  "target": "192.168.1.1",
+  "scan_flag": "-sS",
+  "idle": false,
+  "idle_edit": "",
+  "ftp": false,
+  "ftp_edit": "",
+  "hd": {
+    "-sL": false,
+    "-sn": false,
+    "-Pn": false,
+    "-n": false,
+    "-R": false,
+    "--traceroute": false,
+    "--system-dns": false
+  },
+  "probes": {
+    "-PS": {
+      "checked": false,
+      "value": ""
+    },
+    "-PA": {
+      "checked": false,
+      "value": ""
+    },
+    "-PU": {
+      "checked": false,
+      "value": ""
+    },
+    "-PY": {
+      "checked": false,
+      "value": ""
+    },
+    "-PE": {
+      "checked": false,
+      "value": ""
+    },
+    "-PP": {
+      "checked": false,
+      "value": ""
+    },
+    "-PM": {
+      "checked": false,
+      "value": ""
+    },
+    "-PO": {
+      "checked": false,
+      "value": ""
+    }
+  },
+  "dns": "",
+  "ports": "22,80",
+  "exclude_ports": "",
+  "port_flags": {
+    "-F": false,
+    "-r": false
+  },
+  "top_chk": false,
+  "top_spin": 100,
+  "ratio_chk": false,
+  "ratio_spin": 0.5,
+  "sv_chk": true,
+  "sv_light_chk": false,
+  "sv_all_chk": false,
+  "sv_trace_chk": false,
+  "sv_int_chk": false,
+  "sv_int_spin": 7,
+  "sc_chk": false,
+  "script": "vuln",
+  "sargs": "",
+  "sargs_file": "",
+  "strace_chk": false,
+  "supdatedb_chk": false,
+  "stimeout_chk": false,
+  "stimeout": "",
+  "aggr_chk": false,
+  "os_chk": false,
+  "os_limit_chk": false,
+  "os_guess_chk": false,
+  "timing_flag": "",
+  "timing_options": {
+    "--min-hostgroup": {
+      "checked": false,
+      "value": ""
+    },
+    "--max-hostgroup": {
+      "checked": false,
+      "value": ""
+    },
+    "--min-parallelism": {
+      "checked": false,
+      "value": ""
+    },
+    "--max-parallelism": {
+      "checked": false,
+      "value": ""
+    },
+    "--min-rtt-timeout": {
+      "checked": false,
+      "value": ""
+    },
+    "--max-rtt-timeout": {
+      "checked": false,
+      "value": ""
+    },
+    "--initial-rtt-timeout": {
+      "checked": false,
+      "value": ""
+    },
+    "--max-retries": {
+      "checked": false,
+      "value": ""
+    },
+    "--host-timeout": {
+      "checked": false,
+      "value": ""
+    },
+    "--scan-delay": {
+      "checked": false,
+      "value": ""
+    },
+    "--max-scan-delay": {
+      "checked": false,
+      "value": ""
+    },
+    "--min-rate": {
+      "checked": false,
+      "value": ""
+    },
+    "--max-rate": {
+      "checked": false,
+      "value": ""
+    }
+  },
+  "frag_chk": false,
+  "frag2_chk": false,
+  "mtu_chk": false,
+  "mtu_spin": 24,
+  "decoy_chk": false,
+  "decoy_edit": "",
+  "spoof_ip_chk": false,
+  "spoof_ip_edit": "",
+  "spoof_pn_chk": false,
+  "iface_chk": false,
+  "iface_edit": "",
+  "sp_chk": false,
+  "sp_spin": 53,
+  "prox_chk": false,
+  "prox_edit": "",
+  "dl_chk": false,
+  "dl_spin": 25,
+  "ipo_chk": false,
+  "ipo_edit": "",
+  "ttl_chk": false,
+  "ttl_spin": 64,
+  "smac_chk": false,
+  "smac_edit": "",
+  "badsum_chk": false,
+  "output_files": {
+    "-oN": "",
+    "-oX": "",
+    "-oS": "",
+    "-oG": ""
+  },
+  "output_flags": {
+    "-oN": false,
+    "-oX": false,
+    "-oS": false,
+    "-oG": false
+  },
+  "oA_chk": false,
+  "oA_edit": "",
+  "verb_flags": {
+    "-v": false,
+    "-vv": false,
+    "-d": false,
+    "-dd": false,
+    "--reason": false,
+    "--open": false,
+    "--packet-trace": false,
+    "--iflist": false,
+    "--append-output": false,
+    "--webxml": false,
+    "--no-stylesheet": false
+  },
+  "misc_flags": {
+    "-6": false,
+    "--send-eth": false,
+    "--send-ip": false
+  },
+  "priv_chk": false,
+  "unpriv_chk": false,
+  "exclude_hosts": "",
+  "excludefile": "",
+  "iL": "",
+  "iR": false,
+  "iR_value": 100
+}

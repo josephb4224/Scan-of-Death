@@ -1,0 +1,91 @@
+main: start
+main: QApplication created
+main: creating window
+ScanOfDeath.__init__: base init complete
+ScanOfDeath.__init__: before setup_icon
+ScanOfDeath.__init__: before build_ui
+ScanOfDeath.__init__: build_ui complete
+ScanOfDeath.__init__: npcap=True
+ScanOfDeath.__init__: before update_command
+ScanOfDeath.__init__: complete
+main: window created
+main: window shown
+main: splash finished
+main: start
+main: QApplication created
+main: creating window
+ScanOfDeath.__init__: base init complete
+ScanOfDeath.__init__: before setup_icon
+ScanOfDeath.__init__: before build_ui
+ScanOfDeath.__init__: build_ui complete
+ScanOfDeath.__init__: npcap=True
+ScanOfDeath.__init__: before update_command
+ScanOfDeath.__init__: complete
+main: window created
+main: window shown
+main: splash finished
+main: start
+main: QApplication created
+main: creating window
+ScanOfDeath.__init__: base init complete
+ScanOfDeath.__init__: before setup_icon
+ScanOfDeath.__init__: before build_ui
+ScanOfDeath.__init__: build_ui complete
+ScanOfDeath.__init__: npcap=True
+ScanOfDeath.__init__: before update_command
+ScanOfDeath.__init__: complete
+main: window created
+main: window shown
+main: splash finished
+main: start
+main: QApplication created
+main: creating window
+ScanOfDeath.__init__: base init complete
+ScanOfDeath.__init__: before setup_icon
+ScanOfDeath.__init__: before build_ui
+ScanOfDeath.__init__: build_ui complete
+ScanOfDeath.__init__: npcap=True
+ScanOfDeath.__init__: before update_command
+ScanOfDeath.__init__: complete
+main: window created
+main: window shown
+main: splash finished
+main: start
+main: QApplication created
+main: creating window
+ScanOfDeath.__init__: base init complete
+ScanOfDeath.__init__: before setup_icon
+ScanOfDeath.__init__: before build_ui
+ScanOfDeath.__init__: build_ui complete
+ScanOfDeath.__init__: npcap=True
+ScanOfDeath.__init__: before update_command
+ScanOfDeath.__init__: complete
+main: window created
+main: window shown
+main: splash finished
+main: start
+main: QApplication created
+main: creating window
+ScanOfDeath.__init__: base init complete
+ScanOfDeath.__init__: before setup_icon
+ScanOfDeath.__init__: before build_ui
+ScanOfDeath.__init__: build_ui complete
+ScanOfDeath.__init__: npcap=True
+ScanOfDeath.__init__: before update_command
+ScanOfDeath.__init__: complete
+main: window created
+main: window shown
+main: splash finished
+main: start
+main: QApplication created
+main: creating window
+ScanOfDeath.__init__: base init complete
+ScanOfDeath.__init__: before setup_icon
+ScanOfDeath.__init__: before build_ui
+ScanOfDeath.__init__: build_ui complete
+ScanOfDeath.__init__: npcap=True
+ScanOfDeath.__init__: before update_command
+ScanOfDeath.__init__: complete
+main: window created
+main: window shown
+main: splash finished
