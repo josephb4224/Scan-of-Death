@@ -1,3 +1,7 @@
+# Scan Of Death
+
+<p align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100%></p> 
+
 ## OVERVIEW
 
 **Scan of Death** is a full-featured graphical frontend for **Nmap**. It exposes every major Nmap option through a tabbed interface, builds the command in real time, and streams output live as the scan runs.
